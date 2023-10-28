@@ -1,113 +1,150 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Albert (Sammy) Yee",
+    "label": "BA/MA Student",
+    "picture": "https://github.com/notalbertyee.png",
+    "email": "ayee9@hawaii.edu",
+    "phone": "808-206-0702",
+    "website": "https://notalbertyee.github.io",
+    "summary": "Hello! I am BA/MA Student studying at the Economics Department of the University of Hawaii at Manoa. My expected graduation is Spring 2025 with a combined Bachelors and Masters of Arts in Economics.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "notalbertyee", "url": "http://github.com/notalbertyee" },
+      { "network": "linkedin", "username": "albert-yee-711468168", "url": "https://www.linkedin.com/in/albert-yee-711468168/" },
+      { "network": "instagram", "username": "albirdyee", "url": "https://www.instagram.com/albirdyee" },
+      { "network": "twitter", "username": "spammingkills29", "url": "https://twitter.com/spammingkills29" },
+      { "network": "instagram", "username": "spammingkills", "url": "https://www.instagram.com/spammingkills" },
+      { "network": "twitch", "username": "spammingkills", "url": "https://www.twitch.com/spammingkills" }
     ]
   },
+    "economic-interests": [
+    { "name": "Sustainability/Climate Change" },
+    { "name": "Educational Equity" },
+    { "name": "Labour Economics" },
+    { "name": "Health Economics" }
+  ],
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Esports and Gaming within Education" },
+    { "name": "Learning Disabilites" },
+    { "name": "AR/VR Development" },
+    { "name": "Middle and High School Technology Enrichment" },
+    { "name": "Gaming Communities" },
+    { "name": "Broadcast Production" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "C#", "R", "Swift", "Python", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows 10", "Ubuntu", "GitHub", "X-Code", "OBS" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Economics (expected Spring, 2025)",
+      "studyType": "B.A./M.A.",
+      "startDate": "2021-06-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Unofficial transcript available upon request" ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa First Year Programs",
+      "position": "ACE Peer Mentor",
+      "website": "https://manoa.hawaii.edu/undergrad/freshman/",
+      "startDate": "2022-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Mentored freshmen at UH Manoa",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Mentored 20-30 first-year students at UH Manoa per Fall Semester",
+        "Facilitated credited writing intensive UNIV 110 course",
+        "Individually met with each of the 20-30 first-year students three times during the semester to ensure they were successful during their first semester at the university"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaiʻi at Mānoa and The Overwatch League",
+      "position": "Production Assistant Intern",
+      "website": "https://www.hawaii.edu/news/2022/07/12/overwatch-league-returns-to-uh//",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "summary": "Project Aloha Internship at Overwatch League in Partnership with UH Manoa",
+      "highlights": [
+        "Assisted in set up, operating, and break down of the venue for Overwatch League’s 2022 Midseason Madness Tournament",
+        "Worked alongside OWL staff to create a player-friendly environment"
+      ]
+    },
+    {
+      "company": "Purple Maia",
+      "position": "Kokua (Intern)",
+      "website": "https://purplemaia.org/",
+      "startDate": "2019-09-01",
+      "endDate": "2021-05-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted in running promotion booths at various events",
+        "Tested and tweaked course materials",
+        "Completed routine maintenance and updated software for computers and other devices",
+        "Assisted teaching in Art and Game Design classes"
       ]
-    }
+    },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Manoa Academy of Gamers",
+      "website": "",
+      "position": "President",
+      "startDate": "2021-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead officer for club operations",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Run weekly general meetings and officer meetings",
+        "Plan year, events, and operations for the MAG",
+        "Apply and and obtain sponsorships for MAG",
+        "Ensure deliverables and communicate with sponsors",
+      ]
+    },
+    {
+      "organization": "Assets High School, Game Design Mentorship",
+      "website": "https://www.assets-school.org/",
+      "position": "Assistant Game Designer",
+      "startDate": "2018-09-01",
+      "endDate": "2019-05-15",
+      "summary": "Teaching assistant for Game Design Mentorship",
+      "highlights": [
+        "Advanced knowledge in Swift and X-Code",
+        "Developed teaching skills for basic Swift concepts, and debugging code errors",
+        "Mastered basic game design concepts. Gained experience in Scratch, Swift, and X-Code"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Other volunteer experience",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Chapter President, Pacific & Asian Affairs Council, Assets High School Chapter, 2019-2021",
+        "Webmaster, Hawaii Figure Skating Club, 2018"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "Fall 2021, Spring 2022, Fall 2022, Spring 2023",
+      "awarder": "University of Hawaiʻi at Mānoa College of Social Sciences",
+      "summary": "The Dean's List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Provost Achievement Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "$10,000 per year for 4 years, and this scholarship is open to Hawai’i residents with a 3.7 cumulative high school GPA or higher to be considered."
     }
   ],
   "references": [
