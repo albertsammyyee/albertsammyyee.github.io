@@ -41,8 +41,8 @@ layout: home
         <h1 class="display-6 text-start m-0">Interests</h1>
       </div>
       <div class="col-lg-9">
-        <h3 class="display-6 text-start m-0">Economics</h3>
         <p class="m-0">
+          <b>Economics:</b>
           {% for entry in site.data.bio.economic-interests %}
           {{ entry.name }}
           <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
@@ -51,8 +51,8 @@ layout: home
         </p>
       </div>
       <div class="col-lg-9">
-        <h3 class="display-6 text-start m-0">Education</h3>
         <p class="m-0">
+          <b>Others:</b>
           {% for entry in site.data.bio.interests %}
           {{ entry.name }}
           <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
