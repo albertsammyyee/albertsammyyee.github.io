@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "CITRUS 2023 Work"
 date: 2023
-published: true
+published: false
 labels:
   - Climate Change
   - Sustainability
