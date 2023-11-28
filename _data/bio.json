@@ -18,18 +18,19 @@
     ]
   },
     "economic-interests": [
-    { "name": "Sustainability/Climate Change" },
+    { "name": "Climate Change Economics" },
     { "name": "Educational Equity" },
-    { "name": "Labour Economics" },
-    { "name": "Health Economics" }
+    { "name": "Health Equity" }
+    { "name": "Sustainability Economics" }
   ],
   "interests": [
-    { "name": "Esports and Gaming within Education" },
-    { "name": "Learning Disabilites" },
+    { "name": "Accessible technology" },
     { "name": "AR/VR Development" },
-    { "name": "Middle and High School Technology Enrichment" },
-    { "name": "Gaming Communities" },
-    { "name": "Broadcast Production" }
+    { "name": "Broadcast Production" },
+    { "name": "Esports and Gaming within Education" },
+    { "name": "Game Development" },
+    { "name": "Learning Disabilites" },
+    { "name": "Middle and High School Technology Enrichment" }
   ],
   "skills": [
     {
@@ -38,7 +39,8 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows 10", "Ubuntu", "GitHub", "X-Code", "OBS" ]
+      "keywords": [ "MacOS", "Windows 10", "Ubuntu", "GitHub", "X-Code", "OBS", 
+      "RStudio", "Jupyter Notebook" ]
     }
   ],
   "education": [
