@@ -10,7 +10,13 @@
         <p class="lead">{{ site.data.bio.basics.summary }}</p>
         <hr class="my-4">
         <p class="lead m-0">
-          Interests:
+          Economic Interests:
+          {% for interest in site.data.bio.economics-interests %}
+          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </p>
+        <p class="lead m-0">
+          Other Interests:
           {% for interest in site.data.bio.interests %}
           {{ interest.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}

@@ -49,8 +49,6 @@ layout: home
           {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %},{% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </p>
-      </div>
-      <div class="col-lg-9">
         <p class="m-0">
           <b>Others:</b>
           {% for entry in site.data.bio.interests %}
