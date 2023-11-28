@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Albert (Sammy) Yee",
+    "label": "BA/MA Student",
+    "picture": "https://github.com/notalbertyee.png",
+    "email": "ayee9@hawaii.edu",
+    "phone": "808-206-0702",
+    "website": "https://albertsammyyee.github.io",
+    "summary": "Hello! I am BA/MA Student studying at the Economics Department of the University of Hawaii at Manoa. My expected graduation is Spring 2025 with a combined Bachelors and Masters of Arts in Economics.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "albertsammyyee", "url": "http://github.com/albertsammyyee" },
+      { "network": "linkedin", "username": "albertsammyyee", "url": "https://www.linkedin.com/in/albertsammyyee/" },
+      { "network": "instagram", "username": "albirdyee", "url": "https://www.instagram.com/albirdyee" },
+      { "network": "twitter", "username": "spammingkills29", "url": "https://twitter.com/spammingkills29" },
+      { "network": "instagram", "username": "spammingkills", "url": "https://www.instagram.com/spammingkills" },
+      { "network": "twitch", "username": "spammingkills", "url": "https://www.twitch.com/spammingkills" }
+    ]
+  },
+    "economic-interests": [
+    { "name": "Climate Change Economics" },
+    { "name": "Educational Equity" },
+    { "name": "Health Equity" },
+    { "name": "Sustainability Economics" }
+  ],
+  "interests": [
+    { "name": "Accessible technology" },
+    { "name": "AR/VR Development" },
+    { "name": "Broadcast Production" },
+    { "name": "Esports and Gaming within Education" },
+    { "name": "Game Development" },
+    { "name": "Learning Disabilites" },
+    { "name": "Middle and High School Technology Enrichment" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "C#", "R", "Swift", "Python", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows 10", "Ubuntu", "GitHub", "X-Code", "OBS", 
+      "RStudio", "Jupyter Notebook" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics (expected Spring, 2025)",
+      "studyType": "B.A./M.A.",
+      "startDate": "2021-06-01",
+      "endDate": "Present",
+      "courses": [ "Unofficial transcript available upon request" ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa First Year Programs",
+      "position": "ACE Peer Mentor",
+      "website": "https://manoa.hawaii.edu/undergrad/freshman/",
+      "startDate": "2022-07-01",
+      "endDate": "Present",
+      "summary": "Mentored freshmen at UH Manoa",
+      "highlights": [
+        "Mentored 20-30 first-year students at UH Manoa per Fall Semester",
+        "Facilitated credited writing intensive UNIV 110 course",
+        "Individually met with each of the 20-30 first-year students three times during the semester to ensure they were successful during their first semester at the university"
+      ]
+    },
+    {
+      "company": "University of Hawaiʻi at Mānoa and The Overwatch League",
+      "position": "Production Assistant Intern",
+      "website": "https://www.hawaii.edu/news/2022/07/12/overwatch-league-returns-to-uh//",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "summary": "Project Aloha Internship at Overwatch League in Partnership with UH Manoa",
+      "highlights": [
+        "Assisted in set up, operating, and break down of the venue for Overwatch League’s 2022 Midseason Madness Tournament",
+        "Worked alongside OWL staff to create a player-friendly environment"
+      ]
+    },
+    {
+      "company": "Purple Maia",
+      "position": "Kokua (Intern)",
+      "website": "https://purplemaia.org/",
+      "startDate": "2019-09-01",
+      "endDate": "2021-05-15",
+      "summary": "",
+      "highlights": [
+        "Assisted in running promotion booths at various events",
+        "Tested and tweaked course materials",
+        "Completed routine maintenance and updated software for computers and other devices",
+        "Assisted teaching in Art and Game Design classes"
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "Manoa Academy of Gamers",
+      "website": "",
+      "position": "President",
+      "startDate": "2021-10-01",
+      "endDate": "Present",
+      "summary": "Lead officer for club operations",
+      "highlights": [
+        "Run weekly general meetings and officer meetings",
+        "Plan year, events, and operations for the MAG",
+        "Apply and and obtain sponsorships for MAG",
+        "Ensure deliverables and communicate with sponsors",
+      ]
+    },
+    {
+      "organization": "Assets High School, Game Design Mentorship",
+      "website": "https://www.assets-school.org/",
+      "position": "Assistant Game Designer",
+      "startDate": "2018-09-01",
+      "endDate": "2019-05-15",
+      "summary": "Teaching assistant for Game Design Mentorship",
+      "highlights": [
+        "Advanced knowledge in Swift and X-Code",
+        "Developed teaching skills for basic Swift concepts, and debugging code errors",
+        "Mastered basic game design concepts. Gained experience in Scratch, Swift, and X-Code"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Other volunteer experience",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chapter President, Pacific & Asian Affairs Council, Assets High School Chapter, 2019-2021",
+        "Webmaster, Hawaii Figure Skating Club, 2018"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2021, Spring 2022, Fall 2022, Spring 2023",
+      "awarder": "University of Hawaiʻi at Mānoa College of Social Sciences",
+      "summary": "The Dean's List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework"
+    },
+    {
+      "title": "Provost Achievement Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "$10,000 per year for 4 years, and this scholarship is open to Hawai’i residents with a 3.7 cumulative high school GPA or higher to be considered."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
